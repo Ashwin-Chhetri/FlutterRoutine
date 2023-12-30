@@ -1,0 +1,15 @@
+
+{
+"05:00 AM":{
+"startTime":"05:00 AM",
+"endTime":"06:00 AM",
+"RoutineName":"Morning ",
+"Objective":"excercise "
+},
+"06:00 AM":{
+"startTime":"06:00 AM",
+"endTime":"07:30 AM",
+"RoutineName":"Work",
+"Objective":"sorting today's work"
+}
+}
